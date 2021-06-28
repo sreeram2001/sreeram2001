@@ -11,11 +11,7 @@
 - 💬 Ask me about web development and python programming
 - 📫 How to reach me: ...
 
-[2111532.png](http://google.com)
 ![https://www.linkedin.com/in/sreeram-s-5454961aa/](https://user-images.githubusercontent.com/40134790/123660605-70b82900-d851-11eb-85bc-deb14c90da80.png)
-
-![image](https://user-images.githubusercontent.com/40134790/123658899-c2f84a80-d84f-11eb-99c7-72bc521f2786.png)
-
 - https://portfolio-c40cd.web.app/
 
 
