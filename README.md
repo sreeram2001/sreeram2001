@@ -13,7 +13,7 @@
 
 [GitHub](http://google.com)
 
-![image](https://www.linkedin.com/in/sreeram-s-5454961aa/)
+![[image](https://user-images.githubusercontent.com/40134790/123658178-1cac4500-d84f-11eb-9bd6-ef1253625354.png)](https://www.linkedin.com/in/sreeram-s-5454961aa/)
 
 - https://portfolio-c40cd.web.app/
 
