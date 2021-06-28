@@ -1,7 +1,14 @@
 ### Hi ! I am Sreeram S 👋
 ----------------------------------------------------------------------------
+
+<!-- in your header -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+<!-- in your body -->
 <i class="devicon-css3-plain"></i>
+
+![image](https://user-images.githubusercontent.com/40134790/123653666-fd131d80-d84a-11eb-9c3b-3f883b56d33b.png)
+
 
 <!--
 **sreeram2001/sreeram2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
