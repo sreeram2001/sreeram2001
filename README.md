@@ -13,7 +13,7 @@
 
 <html>
  <body>
-<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png"></a>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="100" height="100"></a>
  </body>
 </html
 
