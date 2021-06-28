@@ -11,10 +11,10 @@
 - 💬 Ask me about web development and python programming
 - 📫 How to reach me: ...
 
-![https://www.linkedin.com/in/sreeram-s-5454961aa/](https://user-images.githubusercontent.com/40134790/123660605-70b82900-d851-11eb-85bc-deb14c90da80.png)
-- https://portfolio-c40cd.web.app/
-
-
+<html>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="![image](https://user-images.githubusercontent.com/40134790/123661237-0784e580-d852-11eb-836e-3ba1e4ef1ad0.png)" title="insert title" alt="insert description here"></a>
+</html
+ 
 -----------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/40134790/123653666-fd131d80-d84a-11eb-9c3b-3f883b56d33b.png)
