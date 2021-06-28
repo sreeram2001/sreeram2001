@@ -15,7 +15,7 @@
 
 <html>
  <body>
-<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30"></a>   <a href="sreeram.ss2001@gmail.com"><img src="104102.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30"></a>              <a href="sreeram.ss2001@gmail.com"><img src="104102.png" width="50" height="50"></a>
 
 
  </body>
