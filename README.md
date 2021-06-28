@@ -12,7 +12,7 @@
 - 📫 How to reach me: ...
 
 <html>
-<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="![image](https://user-images.githubusercontent.com/40134790/123661237-0784e580-d852-11eb-836e-3ba1e4ef1ad0.png)" title="insert title" alt="insert description here"></a>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="https://www.flaticon.com/free-icon/linkedin_2111532"></a>
 </html
  
 -----------------------------------------------------------------------------------------
