@@ -5,14 +5,14 @@
  ✨ About Me ✨ 
 
 - 🔭 I’m currently working on data science
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning data structures and Algorithms
+- 👯 I’m looking to collaborate on Machine Learning
+- 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about web development and python programming
 - 📫 How to reach me: ...
 
 
-
+-----------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/40134790/123653666-fd131d80-d84a-11eb-9c3b-3f883b56d33b.png)
 ![image](https://user-images.githubusercontent.com/40134790/123653781-174cfb80-d84b-11eb-9633-d56799fe0127.png)
