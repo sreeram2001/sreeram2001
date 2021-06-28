@@ -15,7 +15,8 @@
 
 <html>
  <body>
-<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30" style="margin: 1px 1px 1px 1px;"></a>    <a href="https://discord.com/invite/N8dNhF8DgP"><img src="2111363.png" width="35" height="35"></a>      <a href="mailto:sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>         <a href="https://portfolio-c40cd.web.app/"><img src="2807258.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30" style="margin: 3px 3px 3px 3px;"></a>
+<a href="https://discord.com/invite/N8dNhF8DgP"><img src="2111363.png" width="35" height="35"></a>      <a href="mailto:sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>         <a href="https://portfolio-c40cd.web.app/"><img src="2807258.png" width="30" height="30"></a>
 
 
  </body>
