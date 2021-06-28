@@ -10,7 +10,9 @@
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about web development and python programming
 - 📫 How to reach me: ...
-- 
+
+[GitHub](http://github.com)
+
 - https://portfolio-c40cd.web.app/
 
 
