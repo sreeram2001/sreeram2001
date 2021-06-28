@@ -12,8 +12,7 @@
 - 📫 How to reach me: ...
 
 [GitHub](http://google.com)
-
-![image](https://user-images.githubusercontent.com/40134790/123658178-1cac4500-d84f-11eb-9bd6-ef1253625354.png)
+![image](https://user-images.githubusercontent.com/40134790/123658899-c2f84a80-d84f-11eb-99c7-72bc521f2786.png)
 
 - https://portfolio-c40cd.web.app/
 
