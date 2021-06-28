@@ -14,8 +14,12 @@
 - 📫 How to reach me: ...
 
 <html>
+ 
+             <style>
+                p { text-indent: 50px; }
+            </style>
  <body>
-<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/" padding="50"><img src="2111532.png" width="30" height="30"></a>          <a href="sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>         <a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2910791.png" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30"></a> <p> <a href="sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>         <a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2910791.png" width="30" height="30"></a>
 
 
  </body>
