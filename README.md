@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="https://www.flaticon.com/free-icon/linkedin_2111532"></a>
 </html
  
+ <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+ 
 -----------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/40134790/123653666-fd131d80-d84a-11eb-9c3b-3f883b56d33b.png)
