@@ -11,7 +11,7 @@
 - 💬 Ask me about web development and python programming
 - 📫 How to reach me: ...
 
-[GitHub](http://github.com)
+[GitHub](http://google.com)
 
 - https://portfolio-c40cd.web.app/
 
