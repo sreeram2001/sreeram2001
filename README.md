@@ -46,9 +46,13 @@
 ![image](https://user-images.githubusercontent.com/40134790/123655270-76f7d680-d84c-11eb-964d-606f4226177c.png)
 ![image](https://user-images.githubusercontent.com/40134790/123655115-529bfa00-d84c-11eb-9152-f6173d7af455.png)
 
+ 
+ 
+ 
+ 
 ------------------------------------------------------------
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeram2001)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeram2001&show_icons=true&theme=radical)
 
 
