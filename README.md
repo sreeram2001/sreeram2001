@@ -45,7 +45,7 @@
 ![image](https://user-images.githubusercontent.com/40134790/123654531-ce497700-d84b-11eb-9a07-b137040857b7.png)
 ![image](https://user-images.githubusercontent.com/40134790/123655270-76f7d680-d84c-11eb-964d-606f4226177c.png)
 ![image](https://user-images.githubusercontent.com/40134790/123655115-529bfa00-d84c-11eb-9152-f6173d7af455.png)
-![image](https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg)
+![image](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
 
 
  
