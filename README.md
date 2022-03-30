@@ -5,10 +5,9 @@
  ✨ About Me ✨ 
 
 - 🔭 I’m currently working on data science
-- 🌱 I’m currently learning data structures and Algorithms
+- 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on Machine Learning
-- 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about web development and python programming
+- 💬 Ask me about full-stack development, UI/UX and Machine Learning
 
 
 - 📫 How to reach me: ...
@@ -16,8 +15,11 @@
 <html>
 <body>
 <a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30"></a>
+ <br>
 <a href="https://discord.com/invite/N8dNhF8DgP"><img src="2111363.png" width="35" height="35"></a>
+ <br>
 <a href="mailto:sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>
+ <br?
 <a href="https://portfolio-c40cd.web.app/"><img src="2807258.png" width="30" height="30"></a><br>
 
  <br><br><br>
