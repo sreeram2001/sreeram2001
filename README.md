@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/40134790/123655115-529bfa00-d84c-11eb-9152-f6173d7af455.png)
 ![image](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
 ![image](https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon.png)
-![image](https://icon-library.com/images/django-icon/django-icon-0.jpg)
+![image](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png)
 
 
  
