@@ -32,7 +32,7 @@
 ![image](https://skills.thijs.gg/icons?i=html,css,js,react)
 ![image](https://skills.thijs.gg/icons?i=c,cpp,python,mysql)
 ![image](https://skills.thijs.gg/icons?i=flutter,dart,firebase)
- ![image](https://skills.thijs.gg/icons?i=heroku,django,flask)
+ ![image](https://skills.thijs.gg/icons?i=heroku,django,flask,Scikit-learn)
 ------------------------------------------------------------
  
 
