@@ -36,6 +36,7 @@
  ----------------------------------------------------
 ![image](https://skills.thijs.gg/icons?i=html,css,js,react)<br><br>
 ![image](https://skills.thijs.gg/icons?i=c,cpp,python)
+![image](https://skills.thijs.gg/icons?i=flutter,dart,firebase)
  
  
 ![image](https://user-images.githubusercontent.com/40134790/123653781-174cfb80-d84b-11eb-9633-d56799fe0127.png)
