@@ -48,7 +48,7 @@
 ![image](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
 ![image](https://images.vexels.com/media/users/3/166179/isolated/lists/b83d6b47a9502dfaf535087627a8bf96-c-programming-language-icon.png)
 ![image](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png)
- ![image](https://lh3.googleusercontent.com/isLdXNXSkJKT5CUY-S4ZfK2q_BwrhoNKF2GQVwoo0IEAsOj-CABaJrBCw_K0s9vp03q7ZyGd2a5EfABoBEPPN4LZz_uV2ofS0xCkRYlVjZFB1HpMM0gccvzGGT2v5yTH2f10UhZ6)
+ ![image](https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f8bd1dc3c511ea5a28a56_icon-rect-tech.png)
 
 
  
