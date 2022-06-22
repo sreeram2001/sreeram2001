@@ -10,10 +10,9 @@
 - 💬 Ask me about full-stack development, UI/UX and Machine Learning
 
 
-- 📫 How to reach me: ...
-<br><br>
+<br><br><br>
 
-✨ About Me ✨ 
+✨ 📫 How to reach me: ... ✨ 
 <html>
 <body>
 <a href="https://www.linkedin.com/in/sreeram-s-5454961aa/"><img src="2111532.png" width="30" height="30"></a>
