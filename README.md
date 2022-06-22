@@ -10,7 +10,7 @@
 - 💬 Ask me about full-stack development, UI/UX and Machine Learning
 
 
-<br><br><br>
+<br><br>
 
 ✨ 📫 How to reach me: ... ✨ 
 <html>
@@ -20,12 +20,10 @@
 <a href="mailto:sreeram.ss2001@gmail.com"><img src="104102.png" width="35" height="35"></a>
 <a href="https://portfolio-c40cd.web.app/"><img src="2807258.png" width="30" height="30"></a><br>
 
- <br><br><br>
+ <br><br>
  <br>
 </body>
 </html
- 
- 
  
  
 
