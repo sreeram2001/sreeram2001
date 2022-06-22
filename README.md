@@ -34,10 +34,10 @@
  
  
  ----------------------------------------------------
-
- 
-![image](https://skills.thijs.gg/icons?i=html,css,js,react)
+![image](https://skills.thijs.gg/icons?i=html,css,js,react)<br><br>
 ![image](https://skills.thijs.gg/icons?i=c,cpp,python)
+ 
+ 
 ![image](https://user-images.githubusercontent.com/40134790/123653781-174cfb80-d84b-11eb-9633-d56799fe0127.png)
 ![image](https://user-images.githubusercontent.com/40134790/123653846-23d15400-d84b-11eb-9588-4684ef8a44ca.png)
 ![image](https://user-images.githubusercontent.com/40134790/123654192-74e14800-d84b-11eb-87cd-9c1760ac9f22.png)
