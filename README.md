@@ -4,7 +4,7 @@
 
  ✨ About Me ✨ 
 
-- 🔭 I’m currently working on data science
+- 🔭 I’m currently working on Java, Docker, SpringBoot
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on Machine Learning and ReactJS
 - 💬 Ask me about full-stack development, UI/UX and Machine Learning
