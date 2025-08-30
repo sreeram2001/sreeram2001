@@ -27,15 +27,6 @@
  
  
 
- ✨ MY STACK ✨ 
- ----------------------------------------------------
-![image](https://skills.thijs.gg/icons?i=html,css,js,react)
-![image](https://skills.thijs.gg/icons?i=c,cpp,python,mysql)
-![image](https://skills.thijs.gg/icons?i=flutter,dart,firebase)
- ![image](https://skills.thijs.gg/icons?i=heroku,django,flask,tensorflow,figma)
-------------------------------------------------------------
- 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeram2001&show_icons=true&theme=radical)
 
 
