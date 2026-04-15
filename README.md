@@ -19,13 +19,13 @@
 
 ### ### Hi ! I am Sreeram S 👋
 
-**Full-Stack Developer | MS in Computer Science @ Arizona State University | Full-Stack Dev @ AWS x ASU AI Cloud Innovation Center**
+**Full-Stack Developer | MS in Computer Science @ ASU | Full-Stack Dev @ AWS x ASU AI Cloud Innovation Center**
 
 ✨ **About Me** ✨ 
-- 🔭 **Current Focus:Design and develop **cloud-native** Full-stack **AI** Applications
+- 🔭 **Current Focus:** Design and develop **cloud-native** Full-stack **AI** Applications
 - 🧠 **AI Expertise:** Architecting **LLM Orchestration**, **RAG Pipelines**, and AI Agents.
 - 🌱 **Continuous Learning:** Deep diving into **Data Structures and Algorithms**.
-- 👯 **Collaboration:** Looking to partner on **Machine Learning**, **MlOps**, **Cloud**, and **AI** projects.
+- 👯 **Collaboration:** Looking to partner on **Machine Learning**, **MLOps**, **Cloud**, and **AI** projects.
 - 💬 **Expertise:** Ask me about **Full-Stack Development**, **UI/UX**, and **Machine Learning**.
 - 🏢 **Experience:** 3+ years at **GE Healthcare** developing high-performance solutions with **Java**, **C++**, **Docker**, **REST API**, and **SpringBoot**..
 
@@ -57,14 +57,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram2001&theme=tokyonight&border_radius=10&hide_border=true" alt="Coding Streak" />
 </div>
-
----
-
-### 🏆 Achievements
-* 🥇 **Gold Badge:** Problem Solving & Programming on **HackerRank**.
-* 🎯 **90%+ Sprint Accuracy:** Consistently delivered high-stakes features at **GE Healthcare**.
-* 🤝 **Community Impact:** Developed free study resource tools supporting over **2,000 students**.
-* 📊 **Efficiency Expert:** Achieved 90%+ segmentation accuracy in AI-driven medical imaging workflows.
 
 ---
 
