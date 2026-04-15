@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://devpost.com/sreeram-ss2001"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/sreeram2001"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/sreeram_ss2001"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
 
 ---
