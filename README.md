@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:003366&height=200&section=header&text=Sreeram%20Saravana%20Prasad&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3366FF,100:001133&height=200&section=header&text=Sreeram%20Saravana%20Prasad&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://sreerams.online"><img src="https://img.shields.io/badge/Portfolio&logo=google-chrome&logoColor=white" /></a>
+<a href="https://sreerams.online">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
    <a href="https://linkedin.com/in/sreeram-s-5454961aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/sreeram2001"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
@@ -46,7 +48,7 @@
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📈 GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreeram2001&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Stats" />
