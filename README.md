@@ -55,7 +55,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram2001&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=sreeram2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=sreeram2001&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
 ---
