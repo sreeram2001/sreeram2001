@@ -55,7 +55,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram2001&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeram2001&theme=tokyonight&border_radius=10&hide_border=true" alt="Coding Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=sreeram2001&theme=tokyonight&border_radius=10&hide_border=true" alt="Coding Streak" />
 </div>
 
 ---
