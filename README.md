@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,spring,flask,mongodb,firebase,dynamodb,mysql,aws,docker,jenkins,git,github,vscode" />
 </p>
 
-#### 💻 Full Tech Stack (Text Version)
+#### 💻 Tech Stack
 * **Programming Languages:** Python, Java, C++, JavaScript, TypeScript, SQL, Data Structures & Algorithms
 * **Generative AI & LLM:** Gemini API, AWS Bedrock, LLMs, Pinecone (Vector DB), RAG Pipelines, AgentCore, NLP
 * **Machine Learning & Data:** TensorFlow, OpenCV, Mask R-CNN, Scikit-learn
@@ -51,10 +51,11 @@
 ### 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeram2001&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeram2001&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Sreeram's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeram2001&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
-  <br/>
+</p>
  <img src="https://streak-stats.demolab.com/?user=sreeram2001&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
 </div>
 
