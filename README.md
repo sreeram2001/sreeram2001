@@ -51,12 +51,14 @@
 ### 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sreeram2001&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sreeram2001&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=sreeram2001&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sreeram2001&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 </div>
+
+---
+
+### GitHub Contribution Graph
+***
+[![Hari's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreeram2001&theme=github-dark)](https://github.com/sreeram2001)
 
 ---
 
